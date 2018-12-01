@@ -1,0 +1,5 @@
+# PURPOSE   	 : to annotate genetic variants, epistatically interacting with extra chromosome 21 and affecting different DS phenotypes
+# AUTHOR, DATE    : Konstantin Popadin, Konstantin Gunbin
+# SCRIPT NAME    : DsTriosPolygenicTransmissionDisequilibrium/2_PrsTransmissionCalculus (1).R
+# INPUT FILE(S)    : 
+# OUTPUT FILE(S): 

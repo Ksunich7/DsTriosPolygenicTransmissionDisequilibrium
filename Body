@@ -1,4 +1,5 @@
-/DsTriosPolygenicTransmissionDisequilibrium/Body/1Raw/     !.gitkeep.  # raw data, we never modify them here 
+/DsTriosPolygenicTransmissionDisequilibrium/Body/1Raw/      # raw data, we never modify them here 
 /DsTriosPolygenicTransmissionDisequilibrium/Body/2Derived/.gitkeep.   # derived data = modified raw data for several potential  analyses. The less number of the files the better
 /DsTriosPolygenicTransmissionDisequilibrium/Body/3Results/.gitkeep.     # one table (one file) - one statistical analysis.
 /DsTriosPolygenicTransmissionDisequilibrium/Body/4Figures/.gitkeep.    # only figures. I recommend to name figures as the R script, which generates them, for example ‘TCVersusGenTimeInMammals.R.01.pdf’
+!.gitkeep.
